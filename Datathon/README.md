@@ -19,4 +19,4 @@ Ao longo dos projetos, foram utilizadas as seguintes tecnologias:
 ## 📂 Estrutura do Repositório
 
 Criação de um modelo com uma acuracia de 85%
-deploy: https://datathongustavoonaga.streamlit.app/
+deploy: https://gustavodatathon.streamlit.app/
