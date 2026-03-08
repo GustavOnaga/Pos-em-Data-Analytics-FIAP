@@ -4,8 +4,8 @@ import joblib
 
 # ========================= Carregar modelo =========================
 
-modelo = joblib.load("modelo_rf.pkl")
-
+# modelo = joblib.load("modelo_rf.pkl")
+modelo = joblib.load("Datathon/streamlit/modelo_rf.pkl")
 
 st.title("Datathon: Fiap e Associação Passos Mágicos")
 st.subheader("Modelo de Predição - Random Forest")
